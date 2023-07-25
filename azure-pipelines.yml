@@ -9,7 +9,6 @@ pool: default
 
 steps:
 - script: |
-    npm adduser
     npm install
     npm version 1.0.$(Build.BuildId)
     npm publish
