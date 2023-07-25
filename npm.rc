@@ -1,11 +1,12 @@
-registry=https://pkgs.dev.azure.com/shaif009/_packaging/shaif009/npm/registry/ 
-                        
+registry=https://pkgs.dev.azure.com/shaifalijain/_packaging/shaifalijain/npm/registry/ 
+                        
 always-auth=true
 
 ; begin auth token 
-//pkgs.dev.azure.com/prashant0135/_packaging/prashant0135/npm/registry/:username=prashant0135 
-//pkgs.dev.azure.com/prashant0135/_packaging/prashant0135/npm/registry/:_password=dmR5N2xqdzdreHQzeDdoem9tMmRscHdteXA0ZG14bGpwb3EyNTVjc3Bzd2FpejRxbWc2cQ== 
-//pkgs.dev.azure.com/prashant0135/_packaging/prashant0135/npm/registry/:email=npm requires email to be set but doesn't use the value
-//pkgs.dev.azure.com/prashant0135/_packaging/prashant0135/npm/:username=prashant0135 
-//pkgs.dev.azure.com/prashant0135/_packaging/prashant0135/npm/:_password=dmR5N2xqdzdreHQzeDdoem9tMmRscHdteXA0ZG14bGpwb3EyNTVjc3Bzd2FpejRxbWc2cQ==
-//pkgs.dev.azure.com/prashant0135/_packaging/prashant0135/npm/:email=npm 
+//pkgs.dev.azure.com/shaifalijain/_packaging/shaifalijain/npm/registry/:username=shaifalijain 
+//pkgs.dev.azure.com/shaifalijain/_packaging/shaifalijain/npm/registry/:_password=ZjRkbjVvMmEyaHY3cW9wMjJ2ZnJhYXNwZDZ5b29xdDRnZ3hnaXprZGZseXQ3YTdneDM3cQ==
+//pkgs.dev.azure.com/shaifalijain/_packaging/shaifalijain/npm/registry/:email=shafali@gmail.com
+//pkgs.dev.azure.com/shaifalijain/_packaging/shaifalijain/npm/:username=shaifalijain 
+//pkgs.dev.azure.com/shaifalijain/_packaging/shaifalijain/npm/:_password=ZjRkbjVvMmEyaHY3cW9wMjJ2ZnJhYXNwZDZ5b29xdDRnZ3hnaXprZGZseXQ3YTdneDM3cQ== 
+//pkgs.dev.azure.com/shaifalijain/_packaging/shaifalijain/npm/:email=shafali@gmail.com
+; end auth token
